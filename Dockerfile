@@ -1,6 +1,6 @@
-FROM ubuntu:13.10
+FROM ubuntu:latest
 
-MAINTAINER Thomas B Homburg <thomas@homburg.dk>
+MAINTAINER James Barlow <james@phillymozdesign.com>
 
 RUN apt-get update
 
